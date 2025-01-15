@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Thanatos
+description: Lead manager/programmer for a University project with team of 5.
 img: assets/img/12.jpg
 importance: 1
 category: work
