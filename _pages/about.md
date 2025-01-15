@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -10,10 +10,39 @@ profile:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently Seeking Placements
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm a Computer Games Development Student at the University of Westinster, where we focus on the technical and creative aspects of game design and programming. My academic journey has 
+equipped me with a strong foundation in key areas, such as:
 
-123123123
+::marker 
+Programming
+::marker
+Game Design
+::marker
+3D Modelling Fundamentals
+::marker
+Game Industry Standards and Business Practices
+
+With hands on experience, I've developed proficiency with a range of tools including:
+
+::marker 
+Engines & IDEs: Unity3D, Visual Studio, Unreal Engine 5
+::marker
+3D Modelling: Blender
+::marker
+Development Tools: GitHub, Docker, Visual Studio Code
+::marker
+Programming Languages: C++, C#, HTML
+
+My projects section showcases some of the tools that i've used, while my Blog goes over smaller projects that i've made.
+
+I'm excited to deepend my expertise in :
+
+::marker 
+Machine learning
+::marker
+Maths & Physics for Games
+::marker
+Advanced Programming Patterns (with the use of leetcode and understanding how to problem solve better)
