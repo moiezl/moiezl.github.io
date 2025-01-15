@@ -7,7 +7,23 @@ importance: 1
 category: work
 related_publications: true
 ---
+## Thanatos  
+A collaborative game development project created as part of a team of five. As the **Lead Manager** and **Programmer**, I contributed to the project's success by coordinating team efforts, implementing gameplay mechanics, and ensuring efficient task management.  
 
+### **Project Highlights**  
+- **My Role**:  
+  - Developed core gameplay systems and mechanics using Unity3D and C#.  
+  - Managed team workflows and communication to ensure smooth collaboration.  
+  - Integrated 3D assets into the game, optimizing performance for a seamless player experience.  
+  - Led debugging and troubleshooting efforts throughout development.  
+
+- **Key Features**:  
+  - Dynamic gameplay with engaging mechanics.  
+  - Immersive 3D environments designed using Blender.  
+  - Collaborative development leveraging GitHub for version control.  
+
+### **Play the Game**  
+Experience the project yourself on [itch.io](https://your-itch.io-link-here).  
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -16,8 +32,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: Thanatos
+    description: Lead manager/programmer for a University project with team of 5.
     img: /assets/img/12.jpg
     ---
 
