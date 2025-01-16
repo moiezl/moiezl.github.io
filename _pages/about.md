@@ -1,9 +1,10 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Currently Seeking Placements
 
+---
 
 I'm a Computer Games Development Student at the University of Westinster, where we focus on the technical and creative aspects of game design and programming. My academic journey has 
 equipped me with a strong foundation in key areas, such as:
@@ -40,8 +41,3 @@ Maths & Physics for Games
 Advanced Programming Patterns (with the use of leetcode and understanding how to problem solve better).
 
 profile:
-
- 
-
----
-
