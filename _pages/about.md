@@ -1,16 +1,8 @@
 ---
-layout: about
-title: About
+layout: About
+title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-
- 
-
----
-
-Currently Seeking Placements
+subtitle: <a href='#'>Affiliations</a>. Currently Seeking Placements
 
 
 I'm a Computer Games Development Student at the University of Westinster, where we focus on the technical and creative aspects of game design and programming. My academic journey has 
@@ -45,4 +37,11 @@ Machine learning
 ::marker
 Maths & Physics for Games
 ::marker
-Advanced Programming Patterns (with the use of leetcode and understanding how to problem solve better)
+Advanced Programming Patterns (with the use of leetcode and understanding how to problem solve better).
+
+profile:
+
+ 
+
+---
+
