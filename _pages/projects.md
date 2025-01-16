@@ -2,11 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Games & Projects I was involved in!
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 1
+display_categories: [University Games, Personal Games, Game Jams, Other]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

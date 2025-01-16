@@ -2,7 +2,7 @@
 layout: page
 title: Thanatos
 description: Lead manager/programmer for a University project with team of 5.
-img: assets/img/12.jpg
+img: assets/img/thanatos-background.png
 importance: 1
 category: work
 related_publications: true
