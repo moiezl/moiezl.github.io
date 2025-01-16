@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About me
-permalink: /
+permalink: /about/
 subtitle: <a href='#'>Affiliations</a>. Currently Seeking Placements
 
 ---
