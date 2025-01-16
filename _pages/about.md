@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Currently Seeking Placements
