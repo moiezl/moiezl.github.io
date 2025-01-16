@@ -1,9 +1,18 @@
 ---
 layout: about
-title: About me
-permalink: /about/
-subtitle: <a href='#'>Affiliations</a>. Currently Seeking Placements
+title: About
+permalink: /
+subtitle: Currently Seeking Placements<br><a href='/cv/'>Resume</a><br>             
 
+profile:
+  align: right
+  image: 
+  image_circular: # crops the image to make it circular
+  more_info:
+
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm a Computer Games Development Student at the University of Westinster, where we focus on the technical and creative aspects of game design and programming. My academic journey has 
