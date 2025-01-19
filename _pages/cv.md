@@ -4,7 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: CV_Main.pdf # you can also use external links here
+cv_pdf: CV_Main.pdf 
+
 description: This is the CV section. You can click the PDF Icon to download my CV.
 toc:
   sidebar: left
