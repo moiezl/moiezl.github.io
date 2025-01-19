@@ -16,11 +16,12 @@
   type: time_table
   contents:
     - title: Computer Games Development BSc Honours
-      institution: [University of Westminster]
+      institution: University of Westminster
       year: 2023 - 2027
       description:
-        -  The course provides you with a solid understanding of game technologies, including programming, applied maths, computer graphics and game engines. 
-        You'll develop a broad range of knowledge and skills including mobile and web application development, 3D modelling and animation, and human-computer interaction
+  - The course provides you with a solid understanding of game technologies, including programming, applied maths, computer graphics, and game engines.
+  - You'll develop a broad range of knowledge and skills including mobile and web application development, 3D modelling and animation, and human-computer interaction.
+
 
 - title: Interests
   type: list
