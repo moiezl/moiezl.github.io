@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 cv_pdf: Moiez_CV_NoPhone.pdf
 
-description: This is the CV section of my portfolio, you can click the PDF Icon to download a similar CV, some information is ommited contact me for details.
+description: This is the CV section of my portfolio, you can click the PDF Icon to download a similar CV.
 toc:
   sidebar: left
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Games & Projects I was involved in!
+description: Games & Projects I was involved in
 nav: true
 nav_order: 1
 display_categories: [University Games, Personal Games, Game Jams, Other]

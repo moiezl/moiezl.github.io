@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Martynas Balciunas",
+    "name": "Moiez Lin",
     "label": "Student Seeking Placements",
     "image": "",
-    "email": "martynasbalc@gmail.com",
+    "email": "themasihmob@gmail.com",
     "phone": "[removed]",
-    "url": "<a href='/'> www.martynas.vip </a>",
-    "summary": "I am a Computer Games Development Student at the University of Westminster, dedicated to mastering the technical and creative aspects of game design and programming. My Academic background has provided me with a solid understanding of key principles.",
+    "url": "<a href='/'>  </a>",
+    "summary": "I’m a Computer Games Development Student at the University of Westinster, where we focus on the technical and creative aspects of game design and programming",
     "location": {
       "address": "[removed]",
       "postalCode": "[removed]",
@@ -17,35 +17,12 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "martynas-balciunas",
-        "url": "https://LinkedIn.com/martynas-balciunas"
+        "username": "moiezl",
+        "url": "https://www.linkedin.com/in/moiez-lin/"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Barbour, London",
-      "location": "London, United Kindom",
-      "position": "Sales Assistant",
-      "url": "",
-      "startDate": "2024-10-12",
-      "endDate": "2025-01-01",
-      "summary": "Part-Time Sales Assistant at a well established brand",
-      "highlights": ["Retail, Sales, Customer Service"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Digital Schoolhouse",
-      "location": "London, United Kindom",
-      "position": "University Volunteer",
-      "url": "https://www.digitalschoolhouse.org.uk/",
-      "startDate": "2024-07-00",
-      "endDate": "2024-07-00",
-      "summary": "University volunteer assisting teachers with navigating the campus with a set schedule",
-      "highlights": ["Time Management, Volunteering, Customer Service"]
-    }
-  ],
+  
   "education": [
     {
       "institution": "University of Westminster, United Kingdom",
@@ -59,31 +36,15 @@
       "courses": ["Computer Games Development"]
     },
     {
-      "institution": "Sittingbourne School, United Kingdom",
-      "location": "Kent, United Kingdom",
-      "url": "",
-      "area": "Computing, Finance, Applied Science",
-      "studyType": "A-Levels",
-      "startDate": "2021-08-05",
-      "endDate": "2023-06-01",
-      "score": "Distinction, A (48pts), Merit",
-      "courses": ["Distinction, A (48pts), Merit"]
+      
     }
   ],
-  "awards": [
-    {
-      "title": "Westminster Employability Award - Bronze",
-      "date": "2024-07-30",
-      "awarder": "University of Westminster",
-      "url": "https://openbadgefactory.com/v1/assertion/9a990b60e4fb3b7b7506b07bbbe1a6a0cb7600de",
-      "summary": "A badge awarded to student that complete employability events at the university, improving their chances of employment"
-
-    },
+ 
     {
       "title": "LinkedIn Certifications",
       "date": "2023-08-00",
       "awarder": "LinkedIn Learning",
-      "url": "https://www.linkedin.com/in/martynas-balciunas/details/certifications/",
+      "url": "https://www.linkedin.com/in/moiez-lin/details/certifications/",
       "summary": "Various LinkedIn Learning certifications"
     }
   ],
@@ -107,7 +68,6 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Blender",
-        "Aseprite",
         "Materials",
         "Textures"
       ]
@@ -120,14 +80,12 @@
       "icon": ""
     },
     {
-      "language": "Lithuanian",
-      "fluency": "Advanced",
+      "language": "Chinese",
+      "fluency": "Intermediate",
       "icon": ""
     },
     {
-      "language": "Japanese",
-      "fluency": "Beginner",
-      "icon": ""
+
     }
   ],
   "interests": [
@@ -136,8 +94,8 @@
       "icon": "",
       "keywords": [
         "Working Out",
-        "Cooking",
-        "Coffee"
+        "Badminton",
+        "Gaming"
       ]
     },
     { 
