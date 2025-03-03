@@ -28,7 +28,8 @@ In terms of practical experience, I have worked with the following tools and lan
 * GitHub, Visual Studio Code
 * C++ , C# , HTML
 
-<a href='/projects/'>The Projects</a> section highlights work I have been part of, showing my ability to apply these tools and concepts.<a href='/blog/'>The Blog</a> showcases smaller more niche aspects like <a href='/blog/2023/Making-A-Donut/'>Making a Donut!</a>
+<a href='/projects/'>The Projects</a> section highlights projects I've been part of, showing my ability to apply these tools and concepts.
+<a href='/blog/'>The Blog</a> showcases smaller more niche aspects.
 
 In the upcoming academic year, I will be learning:
 * Machine learning
