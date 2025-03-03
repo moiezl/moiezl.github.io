@@ -1,12 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Challenges in Developing My Horror Game</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body>
+---
+layout: post
+title: Making a horror game
+date: 2024-11-16 21:01:00
+description: My experience making a horror game
+tags: Unreal Engine
+categories: blender-posts
+thumbnail: assets/img/blender/horror.png
+---
 
     <article>
         <header>
