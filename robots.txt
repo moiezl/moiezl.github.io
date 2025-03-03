@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://moiezl.github.io/sitemap.xml
+Sitemap: https://martynas-balciunas.github.io/sitemap.xml
