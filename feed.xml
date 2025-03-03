@@ -1,1 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://martynas-balciunas.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://martynas-balciunas.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-03-03T18:24:33+00:00</updated><id>https://martynas-balciunas.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Horror Game</title><link href="https://martynas-balciunas.github.io/blog/2024/Horror-game/" rel="alternate" type="text/html" title="Horror Game"/><published>2024-12-04T00:00:00+00:00</published><updated>2024-12-04T00:00:00+00:00</updated><id>https://martynas-balciunas.github.io/blog/2024/Horror-game</id><content type="html" xml:base="https://martynas-balciunas.github.io/blog/2024/Horror-game/"><![CDATA[<p>&lt;!DOCTYPE html&gt;</p> <html lang="en"> <head> <meta charset="UTF-8"/> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>Challenges in Developing My Horror Game</title> <link rel="stylesheet" href="assets/css/style.css"/> </head> <body> <article> <header> <h1>Challenges in Developing My Horror Game</h1> <p><strong>Date:</strong> March 3, 2025 | <strong>Categories:</strong> Game Development</p> </header> <p> Developing my horror game was both an exciting and frustrating journey. While I had a clear vision of the eerie atmosphere and immersive mechanics I wanted to implement, I ran into several challenges along the way. Below are some of the key issues I faced during development and how I approached solving them. </p> <h2>Issues with Blueprints</h2> <p> Since I was using Unreal Engine, I initially relied heavily on Blueprints for scripting my gameplay mechanics. While Blueprints are powerful, I quickly found that complex interactions—especially for my rotating puzzle mechanics—became messy. Debugging was difficult as logic chains grew longer, making it hard to track down errors. Eventually, I had to rewrite parts of my system in C++ to gain more control and improve performance. </p> <h2>Importing Assets</h2> <p> Asset importing was another major hurdle. Some of the 3D models I downloaded had incorrect scaling, causing objects to appear way too large or too small in my game world. Additionally, texture maps were sometimes broken due to incorrect UV mappings. I had to manually adjust scaling and remap textures in Blender before reimporting them into Unreal Engine. </p> <h2>Rotating Puzzle Mechanics</h2> <p> Implementing the rotating puzzles was trickier than expected. I wanted smooth, intuitive controls where players could rotate objects at fixed angles, but Unreal Engine’s default physics sometimes caused jittery movement or unwanted rotations. I experimented with different rotation methods—first using physics constraints, then switching to manually controlled quaternion rotations. In the end, I found that a mix of Timeline nodes in Blueprints with custom logic in C++ gave me the best results. </p> <h2>Getting Good Lighting</h2> <p> Horror games rely heavily on atmosphere, and I struggled to get the lighting just right. At first, my game looked too bright and lost its eerie feel. When I reduced the light intensity, some areas became too dark to navigate. I had to balance dynamic lighting with baked lightmaps and tweak post-processing effects like fog, bloom, and ambient occlusion. Additionally, I used subtle flickering lights and shadow-casting objects to enhance the unsettling atmosphere. </p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <img src="assets/img/game/horror-lighting.png" alt="Horror Game Lighting" class="img-fluid rounded z-depth-1"/> </div> </div> <div class="caption"> <p><em>A preview of the game's lighting setup</em></p> </div> <h2>Final Thoughts</h2> <p> Despite these challenges, I learned a lot from the development process. Troubleshooting Blueprints, fixing asset imports, refining puzzle mechanics, and optimizing lighting all helped me grow as a game developer. While the game isn't perfect, I'm proud of how it turned out and excited to keep improving it. </p> </article> </body> </html>]]></content><author><name></name></author><summary type="html"><![CDATA[&lt;!DOCTYPE html&gt; Challenges in Developing My Horror Game]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://martynas-balciunas.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://martynas-balciunas.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-03-03T18:34:24+00:00</updated><id>https://martynas-balciunas.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Making a horror game</title><link href="https://martynas-balciunas.github.io/blog/2024/Horror-game/" rel="alternate" type="text/html" title="Making a horror game"/><published>2024-11-16T21:01:00+00:00</published><updated>2024-11-16T21:01:00+00:00</updated><id>https://martynas-balciunas.github.io/blog/2024/Horror-game</id><content type="html" xml:base="https://martynas-balciunas.github.io/blog/2024/Horror-game/"><![CDATA[<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;article&gt;
+    &lt;header&gt;
+        &lt;h1&gt;Challenges in Developing My Horror Game&lt;/h1&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; March 3, 2025 | &lt;strong&gt;Categories:&lt;/strong&gt; Game Development&lt;/p&gt;
+    &lt;/header&gt;
+
+    &lt;p&gt;
+        Developing my horror game was both an exciting and frustrating journey. While I had a clear vision of the eerie 
+        atmosphere and immersive mechanics I wanted to implement, I ran into several challenges along the way. 
+        Below are some of the key issues I faced during development and how I approached solving them.
+    &lt;/p&gt;
+
+    &lt;h2&gt;Issues with Blueprints&lt;/h2&gt;
+    &lt;p&gt;
+        Since I was using Unreal Engine, I initially relied heavily on Blueprints for scripting my gameplay mechanics. 
+        While Blueprints are powerful, I quickly found that complex interactions—especially for my rotating puzzle mechanics—became messy.  
+        Debugging was difficult as logic chains grew longer, making it hard to track down errors. Eventually, I had to rewrite parts 
+        of my system in C++ to gain more control and improve performance.
+    &lt;/p&gt;
+
+    &lt;h2&gt;Importing Assets&lt;/h2&gt;
+    &lt;p&gt;
+        Asset importing was another major hurdle. Some of the 3D models I downloaded had incorrect scaling, causing objects 
+        to appear way too large or too small in my game world. Additionally, texture maps were sometimes broken due to incorrect 
+        UV mappings. I had to manually adjust scaling and remap textures in Blender before reimporting them into Unreal Engine.
+    &lt;/p&gt;
+
+    &lt;h2&gt;Rotating Puzzle Mechanics&lt;/h2&gt;
+    &lt;p&gt;
+        Implementing the rotating puzzles was trickier than expected. I wanted smooth, intuitive controls where players could 
+        rotate objects at fixed angles, but Unreal Engine’s default physics sometimes caused jittery movement or unwanted rotations.  
+        I experimented with different rotation methods—first using physics constraints, then switching to manually controlled 
+        quaternion rotations. In the end, I found that a mix of Timeline nodes in Blueprints with custom logic in C++ gave me the 
+        best results.
+    &lt;/p&gt;
+
+    &lt;h2&gt;Getting Good Lighting&lt;/h2&gt;
+    &lt;p&gt;
+        Horror games rely heavily on atmosphere, and I struggled to get the lighting just right. At first, my game looked too bright 
+        and lost its eerie feel. When I reduced the light intensity, some areas became too dark to navigate. I had to balance 
+        dynamic lighting with baked lightmaps and tweak post-processing effects like fog, bloom, and ambient occlusion. 
+        Additionally, I used subtle flickering lights and shadow-casting objects to enhance the unsettling atmosphere.
+    &lt;/p&gt;
+
+    &lt;div class="row mt-3"&gt;
+        &lt;div class="col-sm mt-3 mt-md-0"&gt;
+            &lt;img src="assets/img/game/horror-lighting.png" alt="Horror Game Lighting" class="img-fluid rounded z-depth-1"&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class="caption"&gt;
+        &lt;p&gt;&lt;em&gt;A preview of the game's lighting setup&lt;/em&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Final Thoughts&lt;/h2&gt;
+    &lt;p&gt;
+        Despite these challenges, I learned a lot from the development process. Troubleshooting Blueprints, fixing asset imports, 
+        refining puzzle mechanics, and optimizing lighting all helped me grow as a game developer. While the game isn't perfect, 
+        I'm proud of how it turned out and excited to keep improving it.
+    &lt;/p&gt;
+
+&lt;/article&gt;
+</code></pre></div></div> <p>&lt;/body&gt; &lt;/html&gt;</p>]]></content><author><name></name></author><category term="blender-posts"/><category term="Unreal"/><category term="Engine"/><summary type="html"><![CDATA[My experience making a horror game]]></summary></entry></feed>
