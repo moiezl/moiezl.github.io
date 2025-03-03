@@ -12,12 +12,11 @@ Almost the entire website is a template provided with an incredible developer en
 
 The Website is hosted using GitHub Pages
 
-The only work that I had to do was customize the website and use some HTML to customize the basics like links, alongside following documentation to ensure GitHub and developer environment is correct.
+My primary responsibilities involved customizing the website's functionality and styling, utilizing HTML to implement core elements such as hyperlinks. Additionally, I adhered to official documentation to ensure the GitHub repository and development environment were correctly configured.
 
 This has however given me some experience with:
+
+* Understanding of Websites
+* GitHub Pages
 * Docker
 * HTML
-* Understanding of Websites
-* Domain Basics
-* GitHub Pages
-
