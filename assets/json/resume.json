@@ -1,47 +1,161 @@
 {
   "basics": {
-    "name": "Moiez Lin",
-    "label": "Game Developer",
+    "name": "Martynas Balciunas",
+    "label": "Student Seeking Placements",
     "image": "",
-    "email": "themasihmob@gmail.com",
-    "url": "https://github.com/moiezl"
+    "email": "martynasbalc@gmail.com",
+    "phone": "[removed]",
+    "url": "<a href='/'> www.martynas.vip </a>",
+    "summary": "I am a Computer Games Development Student at the University of Westminster, dedicated to mastering the technical and creative aspects of game design and programming. My Academic background has provided me with a solid understanding of key principles.",
+    "location": {
+      "address": "[removed]",
+      "postalCode": "[removed]",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "martynas-balciunas",
+        "url": "https://LinkedIn.com/martynas-balciunas"
+      }
+    ]
   },
+  "work": [
+    {
+      "name": "Barbour, London",
+      "location": "London, United Kindom",
+      "position": "Sales Assistant",
+      "url": "",
+      "startDate": "2024-10-12",
+      "endDate": "2025-01-01",
+      "summary": "Part-Time Sales Assistant at a well established brand",
+      "highlights": ["Retail, Sales, Customer Service"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Digital Schoolhouse",
+      "location": "London, United Kindom",
+      "position": "University Volunteer",
+      "url": "https://www.digitalschoolhouse.org.uk/",
+      "startDate": "2024-07-00",
+      "endDate": "2024-07-00",
+      "summary": "University volunteer assisting teachers with navigating the campus with a set schedule",
+      "highlights": ["Time Management, Volunteering, Customer Service"]
+    }
+  ],
   "education": [
     {
-      "institution": "Computer Games Development BSc Honours",
-      "startDate": "2023",
-      "endDate": "2027"
+      "institution": "University of Westminster, United Kingdom",
+      "location": "London, United Kingdom",
+      "url": "https://www.westminster.ac.uk/computer-science-and-engineering-courses/2025-26/september/full-time/computer-games-development-bsc-honours",
+      "area": "Games Design and Development",
+      "studyType": "BSc Computer Games Development",
+      "startDate": "2023-08-22",
+      "endDate": "2027-07-22",
+      "score": "Expected Honors",
+      "courses": ["Computer Games Development"]
+    },
+    {
+      "institution": "Sittingbourne School, United Kingdom",
+      "location": "Kent, United Kingdom",
+      "url": "",
+      "area": "Computing, Finance, Applied Science",
+      "studyType": "A-Levels",
+      "startDate": "2021-08-05",
+      "endDate": "2023-06-01",
+      "score": "Distinction, A (48pts), Merit",
+      "courses": ["Distinction, A (48pts), Merit"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Westminster Employability Award - Bronze",
+      "date": "2024-07-30",
+      "awarder": "University of Westminster",
+      "url": "https://openbadgefactory.com/v1/assertion/9a990b60e4fb3b7b7506b07bbbe1a6a0cb7600de",
+      "summary": "A badge awarded to student that complete employability events at the university, improving their chances of employment"
+
+    },
+    {
+      "title": "LinkedIn Certifications",
+      "date": "2023-08-00",
+      "awarder": "LinkedIn Learning",
+      "url": "https://www.linkedin.com/in/martynas-balciunas/details/certifications/",
+      "summary": "Various LinkedIn Learning certifications"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Game Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Unity3D",
+        "Unreal Engine",
+        "Godot",
+        "C#",
+        "C++",
+        "GD Script"
+      ]
+    },
+    {
+      "name": "Asset Creation",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Blender",
+        "Aseprite",
+        "Materials",
+        "Textures"
+      ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Native Level",
+      "icon": ""
     },
     {
-      "language": "Chinese",
-      "fluency": "HSK1-2 Level"
+      "language": "Lithuanian",
+      "fluency": "Advanced",
+      "icon": ""
     },
     {
-      "language": "Urdu",
-      "fluency": "Okay"
+      "language": "Japanese",
+      "fluency": "Beginner",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Documentaries"
+      "name": "Healthy Habits",
+      "icon": "",
+      "keywords": [
+        "Working Out",
+        "Cooking",
+        "Coffee"
+      ]
     },
-    {
-      "name": "Reading"
-    },
-    {
-      "name": "Video Games"
-    },
-    {
-      "name": "Badminton"
-    },
-    {
-      "name": "Gym"
+    { 
+      "name": "Learning",
+      "icon": "",
+      "keywords": [
+        "Languages",
+        "Programming Languages",
+        "Game Engines"
+      ]
     }
+  ],
+  "references": [
+    {
+      "name": "",
+      "icon": "",
+      "reference": "References available upon request"
+    }
+
   ]
 }

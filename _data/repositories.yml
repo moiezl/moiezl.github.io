@@ -1,9 +1,9 @@
 github_users:
   - moiezl
+  - 
 
 
 repo_description_lines_max: 2
 
 github_repos:
-- moiezl/moiezl.github.io
-- moiezl/FlappyGame
+- github.com/moiezl/moiezl.github.io
